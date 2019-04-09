@@ -1,0 +1,2 @@
+Um ficheiro para fazer testes.
+Este ficheiro contem duas linhas.
